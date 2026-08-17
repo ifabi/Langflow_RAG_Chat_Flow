@@ -1,0 +1,10 @@
+# Auto-generated requirements for Langflow flow
+# This file contains only the dependencies needed for this specific flow
+
+lfx==1.11.3
+astrapy
+google-api-python-client
+langchain-astradb
+langchain-openai
+lfx-datastax
+openai
